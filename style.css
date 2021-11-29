@@ -177,9 +177,9 @@ ul li input[type=text] {
 }
 
 .completed-tasks-item{
-    margin: auto;
+    margin: 0 auto;
 }
 
 .incomplete-tasks-item{
-    margin: auto;
+    margin: 0 auto;
 }
