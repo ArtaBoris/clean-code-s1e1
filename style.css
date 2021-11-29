@@ -175,3 +175,11 @@ ul li input[type=text] {
 .editMode label {
   display: none;
 }
+
+.completed-tasks-item{
+    margin: auto;
+}
+
+.incomplete-tasks-item{
+    margin: auto;
+}
